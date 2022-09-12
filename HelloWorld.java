@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println("Goodbye World!");
         System.out.println("What the World!?");
+        System.out.println("We have a merge conflict!");
     }
 }
