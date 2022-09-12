@@ -1,7 +1,5 @@
-# Learning Git
-
+# Learning Git and GitHub
+## Learning Git
+I am learning how to use Git!
 ## Learning GitHub
-
-I am learning how to use Git and GitHub!
-
-It's my favorite activity.
+I am also learning how to use GitHub!
